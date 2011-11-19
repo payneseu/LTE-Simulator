@@ -1,3 +1,9 @@
+/*
+ * Distributed under the terms of the GNU GPL version 3.
+ * 
+ * Copyright (c) 2011 Igor Maraviæ <igorm@etf.rs>
+ */
+
 package rs.etf.igor;
 
 import java.awt.Color;
